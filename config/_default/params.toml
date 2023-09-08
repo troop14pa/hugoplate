@@ -16,7 +16,7 @@ logo_text = "Hugoplate"
 navbar_fixed = true
 # theme-mode
 theme_switcher = true
-theme_default = "dark" # available options [light/dark/system]
+theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
@@ -36,13 +36,13 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "get a quote"
 link = "contact"
 
 # search
 [search]
-enable = true
+enable = false
 primary_color = "#121212"
 include_sections = ["blog"]
 show_image = true
