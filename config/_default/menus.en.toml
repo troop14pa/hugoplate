@@ -12,40 +12,61 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "elements/"
+name = "SPL Welcome"
+url = "spl/"
 weight = 3
 
 [[main]]
+name = "For New Parents"
+url = "newparents/"
 weight = 4
-name = "Pages"
-hasChildren = true
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "blog/"
+name = "Calendar"
+url = "http://calendar.troop14pa.org/"
+weight = 5
 
 [[main]]
-parent = "Pages"
 name = "Contact"
 url = "contact/"
+weight = 6
 
 [[main]]
-parent = "Pages"
-name = "Authors"
-url = "authors/"
+name = "Join"
+url = "join/"
+weight = 7
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "categories/"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "404/"
-
+#
+# [[main]]
+# weight = 4
+# name = "Pages"
+# hasChildren = true
+#
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# url = "blog/"
+#
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# url = "contact/"
+#
+# [[main]]
+# parent = "Pages"
+# name = "Authors"
+# url = "authors/"
+#
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "categories/"
+#
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "404/"
+#
 
 # footer menu
 [[footer]]
