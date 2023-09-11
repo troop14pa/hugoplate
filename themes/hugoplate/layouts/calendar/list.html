@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <section class="section-sm">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="md:col-10 lg:col-7">
+          <h2 class="h3 mb-6">{{ .Title }}</h2>
+          <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=dHJvb3AxNGJveXNjb3V0c0BnbWFpbC5jb20&src=MXI1aGhiZmhmdmFldWhpZ3NzYzhzbTQ4NzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=cXYxN2gxOGdzdXE3Z3AzZmpncGo4bmVkNmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%230B8043&color=%233F51B5&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+          <div class="content">{{ .Content }}</div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}

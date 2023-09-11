@@ -23,7 +23,7 @@ weight = 4
 
 [[main]]
 name = "Calendar"
-url = "http://calendar.troop14pa.org/"
+url = "calendar/"
 weight = 5
 
 [[main]]
