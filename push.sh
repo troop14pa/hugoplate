@@ -1,4 +1,6 @@
 #!/bin/bash
 
+set -x
+rm -rf public
 npm run build
-(cd public && rsync -av  ../../troop14pa.github.io/ )
+rsync -av public/  ../troop14pa.github.io/
