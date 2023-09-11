@@ -17,8 +17,8 @@ url = "spl/"
 weight = 3
 
 [[main]]
-name = "For New Parents"
-url = "newparents/"
+name = "Parents Message"
+url = "parents/"
 weight = 4
 
 [[main]]
