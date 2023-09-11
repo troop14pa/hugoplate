@@ -1,5 +1,5 @@
 ---
-title: "Message to Parents"
+# title: "Message to Parents"
 meta_title: "About"
 description: "this is meta description"
 # image: "/images/avatar.png"
