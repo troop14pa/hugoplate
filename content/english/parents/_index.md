@@ -1,8 +1,9 @@
 ---
-# title: "Message to Parents"
+title: "Message to Parents"
 meta_title: "About"
 description: "this is meta description"
-# image: "/images/avatar.png"
+# https://www.freepik.com/free-vector/crowd-professional-people-team-flat-poster_3797905.htm#page=2&query=cartoon%20crowd&position=3&from_view=keyword&track=ais
+image: "/images/parents.png"
 draft: false
 ---
 

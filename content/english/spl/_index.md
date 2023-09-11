@@ -2,7 +2,7 @@
 title: "Senior Patrol Leader Welcome Message"
 meta_title: "About"
 description: "this is meta description"
-# image: "/images/avatar.png"
+image: "/images/spl.png"
 draft: false
 ---
 
