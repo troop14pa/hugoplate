@@ -1,7 +1,7 @@
 
 * Figure out how to drop an announcement on the front page;
-* Add top menu for iframe photo album from Flickr
 * Fix css on home page;
+* Add top menu for iframe photo album from Flickr
 * Replace photo album with blog;
 
 
