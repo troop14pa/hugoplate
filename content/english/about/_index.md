@@ -1,5 +1,5 @@
 ---
-# title: "Troop 14/4014 Overview"
+# title: "About Troops 14 and 4014"
 meta_title: "About"
 description: "this is meta description"
 # image: "https://en.wikipedia.org/wiki/The_Thinker#/media/File:Mus%C3%A9e_Rodin_1.jpg"
@@ -9,19 +9,19 @@ draft: false
 
 <h2 align="center"> Philosophy </h2>
 
-Troop 14 is a boy-led organization. Unlike most youth organizations, the boys themselves actually run the Troop. This ranges everywhere from running the meetings to training other Scouts, from choosing an outing program to organizing the food purchases and the cooking for an outing.
+Troop 14 and Troop 4014 are scout-led organizations. Unlike most youth organizations, the youth themselves actually run the Troop. This ranges everywhere from running the meetings to training other Scouts, from choosing an outing program to organizing the food purchases and the cooking for an outing.
 
-That's not to say that the boys are entirely on their own. There are, in fact, two different kinds of adult assistance and support available to the Scouts: the Scouters (Scoutmaster and Assistant Scoutmasters), and the parents at-large. The primary role of the Scouters is to ensure safety, and to provide guidance and mentorship for the Scouts.
+That's not to say that the scouts are entirely on their own. There are, in fact, two different kinds of adult assistance and support available to the Scouts: the Scouters (Scoutmaster and Assistant Scoutmasters), and the parents at-large. The primary role of the Scouters is to ensure safety, and to provide guidance and mentorship for the Scouts.
 
 <h2 align="center"> Our History </h2>
 
-This troop was established in 1959, we have always met at Covenant Presbyterian Church for troop meetings, ever since it was established. We currently have about 50 scouts in our two troops.
+This troop was established in 1959 and we have held our troop meetings at Covenant Presbyterian Church since it was established. We currently have about 50 scouts in our two troops.
 
 <h2 align="center"> Outings </h2>
 
-Troop 14 takes numerous outings each year. The typical schedule from September through June is to take one or two outings each month: one day trip, and one overnight. Generally, all Scouts are welcome on all trips; a few trips—longer, more difficult adventures—may have age, rank, or experience-based requirements.
+Troops 14/4014 take numerous outings each year. The typical schedule from September through June is to take one or two outings each month: one day trip, and one overnight. Generally, all Scouts are welcome on all trips; a few trips—longer, more difficult adventures—may have age, rank, or experience-based requirements.
 
-Participation in Troop outings is optional, though strongly encouraged. Going on Troop outings is a very big part of Scouting. Besides learning skills that are important in the Scouting program, joining the Troop on outings instills in Scouts a better appreciation of the outdoors, nature, and the environment. It also provides critical opportunities for Scouts to get to know other Scouts in the Troop, and to work together with them as a team.
+Participation in Troop outings is optional, though strongly encouraged. Going on Troop outings is a very big part of Scouting. Besides learning skills that are important in the Scouting program, joining the Troop on outings instills in Scouts a better appreciation of the outdoors, nature, and the environment. It also provides critical opportunities for Scouts to get to know other Scouts in the Troop and to work together with them as a team.
 
 In addition to Troop outings, each patrol may take one or two outings on its own over the course of the year.
 

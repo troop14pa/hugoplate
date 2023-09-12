@@ -6,13 +6,13 @@ image: "/images/sunset3.jpg"
 draft: false
 ---
 
-To join Scouts BSA, youth must be one of:
+To join Scouts BSA, youth must be:
 
 * 11 years old; **or**
 * Webelos who has completed their Arrow of Light; **or**
 * 10 years old, in Fifth Grade, on or after March 1
 
-Parents and interested volunteers can also submit an application using the buttons below. Prospective volunteers must pass a background check, complete BSA Youth Protection Training, and they must complete California AB506 Youth Protection Training.
+Parents and interested volunteers can also submit an application using the buttons below. Prospective adult volunteers must pass a background check, complete BSA Youth Protection Training, and they must complete California AB506 Youth Protection Training.
 
 Follow one of the links to join Troop 14 or Troop 4014:
 

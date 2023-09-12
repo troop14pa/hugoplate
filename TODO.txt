@@ -1,0 +1,8 @@
+
+* Fix css on home page;
+* Replace photo album with blog;
+* Add top menu for iframe photo album from Flickr
+
+Extra
+-----
+Add: Staff (blurb about adult leadership)
