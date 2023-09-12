@@ -6,7 +6,7 @@ image: "/images/sunset3.jpg"
 draft: false
 ---
 
-To join Scouts BSA, youth must be:
+To join Scouts BSA, boys and girls must be:
 
 * 11 years old; **or**
 * Webelos who has completed their Arrow of Light; **or**
