@@ -1,5 +1,4 @@
 
-* Wire up the POST action to actually send a message to the scoutmaster
 * Figure out how to drop an announcement on the front page;
 * Add top menu for iframe photo album from Flickr
 * Fix css on home page;
