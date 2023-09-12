@@ -27,14 +27,19 @@ url = "calendar/"
 weight = 5
 
 [[main]]
+name = "Photos"
+url = "photos/"
+weight = 6
+
+[[main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 7
 
 [[main]]
 name = "Join"
 url = "join/"
-weight = 7
+weight = 8
 
 #
 # [[main]]
