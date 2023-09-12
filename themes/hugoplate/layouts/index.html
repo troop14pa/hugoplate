@@ -30,6 +30,34 @@
     {{ end }}
     <!-- /Banner -->
 
+    <section class="section-sm bg-gradient">
+      <div class="container">
+        <div class="row items-center justify-between">
+          <div class="mb:md-0 md:col-5 mb-6">
+            This is a test of the emergency broadcast system.
+            <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+            <div class="pa-gallery-player-widget" style="width:100%; height:280px; display:none;"
+              data-link="https://photos.app.goo.gl/5jwDrBNeZxpijWgQA"
+              data-title="PublicWebsite"
+              data-description="6 new items added to shared album"
+              data-delay="3">
+              <object data="https://lh3.googleusercontent.com/pw/AIL4fc9GcB7lC6LgZqiMs0npz333Z6088wQC1a5PvYzakjbdGH-EuMLVQdx9KjC3pZ5P66jobkL7bFv8AMI8HYP7-9Bc0Jw_5Ii9xfJ1vUC6wCaBjlXGlf8=w1920-h1080"></object>
+              <object data="https://lh3.googleusercontent.com/pw/AIL4fc_P486lOmgw0kL6xHuje6pckDmjf5WeuGCUR7h0XswUEpungfD1pMx61N-uSFtYPBZxCVzlWc-84a2KWbsq8s7Xik7XnNQjvjf830SRBnGSOspQd1k=w1920-h1080"></object>
+              <object data="https://lh3.googleusercontent.com/pw/AIL4fc-Vlg2hkkLW180_MMdpqwLtJUdyTV0hCsl2TmYwXepRAminM4LcBO_uxJkmTE2_zNu8Xv10vCPF-vKoF45UdApxt8VYZtJTu0KK8HoJiMobq8Xigdo=w1920-h1080"></object>
+              <object data="https://lh3.googleusercontent.com/pw/AIL4fc8I4X_3aV47gHiCuPRoXz40Mb5WXYuUiqpvUwsfWcuH4tTsNZ6kC_T4T4Y-KzeRW9InqQP0iV8DBn3NOrp6JcQy9FFJcbvyKbW4LIiUOccpIVI--Y0=w1920-h1080"></object>
+              <object data="https://lh3.googleusercontent.com/pw/AIL4fc8x0o-8VvniGq_xUu3sOtI3tvA53htQvG02SmsqWOb1LkR0XHdn81NH_Vwf-EJcjnFvgKB40tHfb59VWObvHp-Obn1CdcaB-n1nNm93mKV1TGlOjmc=w1920-h1080"></object>
+              <object data="https://lh3.googleusercontent.com/pw/AIL4fc-4cAOzAJpNLfSjP4D5mdMLaLcHmId-i3blK57MBP1bqTeL0IrZJDSwISzf4ObpaMR-1DMttkyiP9muy54lX59vzxRRbqCuqqztwvVqXdXSm8jkEXE=w1920-h1080"></object>
+            </div>
+
+          </div>
+          <div class="md:col-7 lg:col-6">
+            Upcoming Events
+            <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=AGENDA&src=dHJvb3AxNGJveXNjb3V0c0BnbWFpbC5jb20&src=MXI1aGhiZmhmdmFldWhpZ3NzYzhzbTQ4NzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=cXYxN2gxOGdzdXE3Z3AzZmpncGo4bmVkNmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%230B8043&color=%233F51B5&color=%23E4C441" style="border:solid 1px #777" width="300" height="400" frameborder="0" scrolling="no"></iframe>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Features -->
     {{ range $i, $e:= .Params.features }}
       <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
