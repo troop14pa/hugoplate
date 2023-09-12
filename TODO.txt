@@ -3,6 +3,10 @@
 * Replace photo album with blog;
 * Add top menu for iframe photo album from Flickr
 
+* Figure out how to drop an announcement on the front page;
+
+* Cleanup the contact page, included a lot of text in the template;
+
 Extra
 -----
 Add: Staff (blurb about adult leadership)
