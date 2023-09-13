@@ -1,5 +1,4 @@
 
-* Fix css on home page;
 * Figure out how to drop an announcement on the front page;
 * Replace photo album with blog;
 
